@@ -42,7 +42,7 @@ const Main = () => {
            </div>
         </div>
         <p className='bottom-info'>
-            hey ,there baby honey, are you having an hard on
+            hey ,there sexy baby honey, are you having an hard on
         </p>
         </div>
     </div>
