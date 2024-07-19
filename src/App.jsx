@@ -1,5 +1,6 @@
 import Main from './components/Main/Main'
 import Sidebar from './components/Sidebar/Sidebar'
+import ContextProvider from './context/context.jsx'
 import './index.css'
 const App = () => {
   return (
@@ -7,6 +8,7 @@ const App = () => {
 
     <Sidebar/>
     <Main/>
+    <ContextProvider/>
    </>
   )
 }
